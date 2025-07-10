@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGyJbd531dcgg/profile-displaybackgroundimage-shrink_350_1400/B56ZbAbxylGgAg-/0/1746985230576?e=1757548800&v=beta&t=scbdZrCJ8LP_or4ijIV2N2l21sdH85RkDnlNhw_S8-g" alt="Cybersecurity Banner" style="width:100%;"/>
 
-# 🔐 Smit Joshi – Cybersecurity Engineer | QA Automation Specialist | DevSecOps Practitioner
+# 🔐 Cybersecurity Engineer | QA Automation Specialist | DevSecOps Practitioner
 
 Hi, I'm **Smit Joshi**, a skilled **Cybersecurity Engineer** and **QA Automation Expert** with a passion for defending digital spaces, ensuring product quality, and uncovering hidden threats.  
 I specialize in **threat intelligence**, **vulnerability management**, and **end-to-end automation testing** to enhance security and software reliability.  
