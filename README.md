@@ -43,7 +43,7 @@ Penetration Testing, Incident Response, Security Architecture
 
 ## 📬 Get in Touch
 
-📧 **Email:** [smitjoshi2604@gmail.com](mailto:smitjoshi2604@gmail.com)
+📧 **Email:** joshismit2604@gmail.com](mailto:joshismit2604@gmail.com)
 
 ---
 
