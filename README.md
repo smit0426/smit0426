@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGyJbd531dcgg/profile-displaybackgroundimage-shrink_350_1400/B56ZbAbxylGgAg-/0/1746985230576?e=1757548800&v=beta&t=scbdZrCJ8LP_or4ijIV2N2l21sdH85RkDnlNhw_S8-g" alt="Cybersecurity Banner" style="width:100%;"/>
 
 <h1 align="center">🔐 Smit Joshi</h1>
-<h3 align="center">Cybersecurity Engineer | QA Automation Specialist | DevSecOps Enthusiast</h3>
+<h3 align="center">Cybersecurity Engineer | QA Automation Specialist | Networking Enthusiast</h3>
 
 <p align="center">
 🚀 Securing digital systems and ensuring software reliability through penetration testing, threat detection, and automation.
@@ -49,16 +49,6 @@
 
 ---
 
-### 💡 Featured Projects
-
-| 🔗 Project | ⚙️ Description |
-|-----------|----------------|
-| `bug-bounty-scripts` | Python scripts to automate reconnaissance and vulnerability discovery |
-| `qa-playwright-framework` | Modular test automation framework using Playwright for web & API |
-| `secure-web-app` | End-to-end secured full-stack app with CI/CD and DevSecOps best practices |
-| `network-analyzer` | Zeek & Wireshark-based packet analysis toolkit with alerting system |
-
----
 
 ### 📜 Certifications
 
@@ -73,7 +63,7 @@
 ### 📬 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-smitjoshi2604%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smitjoshi2604@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitjoshi2604/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit-joshi-585150365?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9Qv%2B6NqRQMiTWc6iQ%2FOmsQ%3D%3D)
 
 ---
 
