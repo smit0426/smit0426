@@ -1,4 +1,4 @@
-<img src="https://github.com/smit0426/smit0426/blob/main/banner.png" alt="Cybersecurity Banner" style="width:100%;"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGyJbd531dcgg/profile-displaybackgroundimage-shrink_350_1400/B56ZbAbxylGgAg-/0/1746985230576?e=1757548800&v=beta&t=scbdZrCJ8LP_or4ijIV2N2l21sdH85RkDnlNhw_S8-g" alt="Cybersecurity Banner" style="width:100%;"/>
 
 # Welcome to My Cybersecurity Hub! 🔐🌐
 
@@ -30,15 +30,6 @@ Linux, Windows, Cloud (AWS, Azure)
 
 **Domains:**  
 Penetration Testing, Incident Response, Security Architecture
-
----
-
-## 📊 GitHub Statistics
-
-> **Note:** GitHub Stats will populate as you continue pushing code.
-
-<!-- GitHub Readme Stats -->
-![Smit's GitHub stats](https://github-readme-stats.vercel.app/api?username=smit0426&show_icons=true&theme=github_dark&hide_title=false)
 
 ---
 
