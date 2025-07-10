@@ -1,67 +1,83 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGyJbd531dcgg/profile-displaybackgroundimage-shrink_350_1400/B56ZbAbxylGgAg-/0/1746985230576?e=1757548800&v=beta&t=scbdZrCJ8LP_or4ijIV2N2l21sdH85RkDnlNhw_S8-g" alt="Cybersecurity Banner" style="width:100%;"/>
 
-# 🔐 Cybersecurity Engineer | QA Automation Specialist | DevSecOps Practitioner
+<h1 align="center">🔐 Smit Joshi</h1>
+<h3 align="center">Cybersecurity Engineer | QA Automation Specialist | DevSecOps Enthusiast</h3>
 
-Hi, I'm **Smit Joshi**, a skilled **Cybersecurity Engineer** and **QA Automation Expert** with a passion for defending digital spaces, ensuring product quality, and uncovering hidden threats.  
-I specialize in **threat intelligence**, **vulnerability management**, and **end-to-end automation testing** to enhance security and software reliability.  
-With a versatile blend of **InfoSec** and **QA**, I bring a unique perspective to securing and optimizing systems.
-
----
-
-## 💡 What I'm Focused On
-
-- **Advanced Threat Detection & Mitigation**
-- **QA Automation for Web & API Testing**
-- **Security Automation & Scripting**
-- **Penetration Testing & Secure Code Review**
-- **Cybersecurity & QA Research**
+<p align="center">
+🚀 Securing digital systems and ensuring software reliability through penetration testing, threat detection, and automation.
+</p>
 
 ---
 
-## 🛠️ Expertise & Tools
+### 🛡️ About Me
 
-### 🧪 QA & Automation
-- **Tools:** Selenium, Playwright, Postman, JMeter, Cypress  
-- **Test Management:** TestRail, Zephyr  
-- **CI/CD:** GitHub Actions, Jenkins  
-- **Frameworks:** Hybrid, POM, BDD (Cucumber)
-
-### 🔐 Cybersecurity
-- **Languages:** Python, Bash, C, C++, Java  
-- **Pentesting:** Metasploit, Burp Suite, OWASP ZAP  
-- **Network:** Wireshark, Snort, Zeek, Nmap  
-- **Forensics:** Volatility, Autopsy
-
-### 💻 Platforms & Environments
-- **OS:** Linux, Windows  
-- **Cloud:** AWS, Azure  
-- **DevOps:** Docker, Git, GitHub, GitLab CI/CD
+- 👨‍💻 Passionate about Cybersecurity & QA Automation  
+- 🧠 Exploring Threat Intelligence & Security Research  
+- 🧪 Designing Test Frameworks for UI & API testing  
+- 🛠️ Building tools for vulnerability scanning & secure CI/CD pipelines  
 
 ---
 
-## 🏅 Recognitions & Certifications
+### ⚙️ Tools & Technologies
 
-- Cisco Certified Network Associate (CCNA)  
-- The Art Of CyberSecurity – RedTeam360  
-- DevOps Certified – Simplilearn  
-- Selenium Automation – Udemy  
-- Web & API Testing – Postman Certified
+#### 💻 Languages & Scripting:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+#### 🧪 QA & Automation:
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Zoho BugTracker](https://img.shields.io/badge/Zoho_BugTracker-ec1c24?style=for-the-badge&logo=zoho&logoColor=white)
+![Zoho Projects](https://img.shields.io/badge/Zoho_Projects-00B7C3?style=for-the-badge&logo=zoho&logoColor=white)
+![Zoho Qntrl](https://img.shields.io/badge/Zoho_Qntrl-8B00FF?style=for-the-badge&logo=zoho&logoColor=white)
+
+#### 🔐 Cybersecurity Tools:
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF9800?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=for-the-badge&logoColor=white)
+
+#### ☁️ Platforms & DevOps:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📂 Projects You Might Like
+### 💡 Featured Projects
 
-- 🔬 **Bug Bounty & Penetration Testing Scripts**  
-- 🤖 **Automated UI Testing Framework (Selenium + POM + Jenkins)**  
-- 🌐 **Secure Web App Deployment with CI/CD**  
-- ⚙️ **Custom Vulnerability Scanner Scripts in Python**
-
----
-
-## 📬 Get in Touch
-
-📧 **Email:** [joshismit2604@gmail.com](mailto:joshismit2604@gmail.com)
+| 🔗 Project | ⚙️ Description |
+|-----------|----------------|
+| `bug-bounty-scripts` | Python scripts to automate reconnaissance and vulnerability discovery |
+| `qa-playwright-framework` | Modular test automation framework using Playwright for web & API |
+| `secure-web-app` | End-to-end secured full-stack app with CI/CD and DevSecOps best practices |
+| `network-analyzer` | Zeek & Wireshark-based packet analysis toolkit with alerting system |
 
 ---
 
-_Thanks for stopping by! Let's build secure, reliable, and high-quality systems together. 🚀_
+### 📜 Certifications
+
+- 🥇 Cisco Certified Network Associate (CCNA)  
+- 🛡️ The Art Of CyberSecurity – RedTeam360  
+- ⚙️ DevOps 101 – Simplilearn  
+- 🧪 Selenium WebDriver – Udemy  
+- 🌐 Web & API Testing – Postman
+
+---
+
+### 📬 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-smitjoshi2604%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smitjoshi2604@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitjoshi2604/)
+
+---
+
+<p align="center">
+<i>“Secure code. Break things ethically. Automate everything.”</i><br/>
+✨ Thanks for visiting my GitHub!
+</p>
