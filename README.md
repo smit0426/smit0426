@@ -4,29 +4,28 @@
 <h3 align="center">Cybersecurity Engineer | QA Automation Specialist | Networking Enthusiast</h3>
 
 <p align="center">
-🚀 Securing digital systems and ensuring software reliability through penetration testing, threat detection, and automation.
+🌐 Securing digital systems | 🛡️ Delivering reliable software | ⚙️ Automating with precision
 </p>
 
 ---
 
 ### 🛡️ About Me
-
-- 👨‍💻 Passionate about Cybersecurity & QA Automation  
-- 🧠 Exploring Threat Intelligence & Security Research  
-- 🧪 Designing Test Frameworks for UI & API testing  
-- 🛠️ Building tools for vulnerability scanning & secure CI/CD pipelines  
+- 👨‍💻 Cybersecurity & QA Automation enthusiast  
+- 🔍 Exploring **threat intelligence** and **security research**  
+- 🧪 Designing scalable **UI & API test frameworks**  
+- 🛠️ Building tools for **vulnerability scanning** & **secure CI/CD pipelines**  
 
 ---
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools & Technologies  
 
-#### 💻 Languages & Scripting:
+#### 💻 Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-#### 🧪 QA & Automation:
+#### 🧪 QA & Automation
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -35,12 +34,12 @@
 ![Zoho Projects](https://img.shields.io/badge/Zoho_Projects-00B7C3?style=for-the-badge&logo=zoho&logoColor=white)
 ![Zoho Qntrl](https://img.shields.io/badge/Zoho_Qntrl-8B00FF?style=for-the-badge&logo=zoho&logoColor=white)
 
-#### 🔐 Cybersecurity Tools:
+#### 🔐 Cybersecurity Tools
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF9800?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=for-the-badge&logoColor=white)
 
-#### ☁️ Platforms & DevOps:
+#### ☁️ Platforms & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -49,21 +48,18 @@
 
 ---
 
-
 ### 📜 Certifications
-
-- 🥇 Cisco Certified Network Associate (CCNA)  
-- 🛡️ The Art Of CyberSecurity – RedTeam360  
+- 🥇 Cisco Certified Network Associate (**CCNA**)  
+- 🛡️ The Art of Cybersecurity – RedTeam360  
 - ⚙️ DevOps 101 – Simplilearn  
 - 🧪 Selenium WebDriver – Udemy  
-- 🌐 Web & API Testing – Postman
+- 🌐 Web & API Testing – Postman  
 
 ---
 
 ### 📬 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-smitjoshi2604%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smitjoshi2604@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit-joshi-585150365?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9Qv%2B6NqRQMiTWc6iQ%2FOmsQ%3D%3D)
+[![Email](https://img.shields.io/badge/Email-smitjoshi2604%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smitjoshi2604@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit-joshi-585150365)
 
 ---
 
