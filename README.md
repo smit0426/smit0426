@@ -1,69 +1,58 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGyJbd531dcgg/profile-displaybackgroundimage-shrink_350_1400/B56ZbAbxylGgAg-/0/1746985230576?e=1757548800&v=beta&t=scbdZrCJ8LP_or4ijIV2N2l21sdH85RkDnlNhw_S8-g" alt="Cybersecurity Banner" style="width:100%;"/>
+# 👋 Hi, I'm Smit Joshi
 
-<h1 align="center">🔐 Smit Joshi</h1>
-<h3 align="center">Cybersecurity Engineer | QA Automation Specialist | Networking Enthusiast</h3>
+### 🚀 Quality Assurance Engineer | Manual & Automation Testing | Performance Testing
 
-<p align="center">
-🌐 Securing digital systems | 🛡️ Delivering reliable software | ⚙️ Automating with precision
-</p>
+As a dedicated **QA Engineer**, I specialize in ensuring software quality through meticulous testing practices. With hands-on experience in **Manual Testing**, **Selenium Automation**, and **Performance Testing using JMeter**, I strive to deliver high-quality, bug-free applications.
 
 ---
 
-### 🛡️ About Me
-- 👨‍💻 Cybersecurity & QA Automation enthusiast  
-- 🔍 Exploring **threat intelligence** and **security research**  
-- 🧪 Designing scalable **UI & API test frameworks**  
-- 🛠️ Building tools for **vulnerability scanning** & **secure CI/CD pipelines**  
+## 🛠️ Skills & Expertise
+
+### 🖥️ Manual & Functional Testing
+- **Test Case Design & Execution**: Crafting detailed test cases to ensure comprehensive test coverage.
+- **Regression & UI/UX Testing**: Ensuring new changes don't adversely affect existing functionalities and that the user interface is intuitive.
+- **Bug Tracking**: Proficient in tools like **Zoho** and **JIRA** to track and manage defects.
+- **Test Documentation & Reporting**: Maintaining clear and concise test documentation for transparency and traceability.
+
+### 🤖 Automation Testing
+- **Selenium WebDriver**: Automating web applications for efficient regression testing.
+- **TestNG / JUnit**: Utilizing these frameworks for structured test execution and reporting.
+- **Page Object Model (POM)**: Implementing POM for better maintainability and scalability of test scripts.
+- **Cross-Browser Testing**: Ensuring application compatibility across different browsers.
+
+### ⚡ Performance & API Testing
+- **Apache JMeter**: Conducting load and stress testing to evaluate application performance under various conditions.
+- **Postman**: Performing API testing, including creating collections and assertions for REST APIs.
+- **REST API Validation**: Ensuring APIs function as expected and meet performance standards.
+
+### 🧰 Additional Tools & Practices
+- **Agile / Scrum Methodologies**: Collaborating in Agile teams to deliver iterative and incremental software improvements.
+- **Responsive Web Testing**: Verifying that applications provide a seamless experience across devices.
+- **Basic Security & Vulnerability Checks**: Identifying potential security issues to safeguard applications.
 
 ---
 
-### ⚙️ Tools & Technologies  
+## 📂 Projects & Contributions
 
-#### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-#### 🧪 QA & Automation
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Zoho BugTracker](https://img.shields.io/badge/Zoho_BugTracker-ec1c24?style=for-the-badge&logo=zoho&logoColor=white)
-![Zoho Projects](https://img.shields.io/badge/Zoho_Projects-00B7C3?style=for-the-badge&logo=zoho&logoColor=white)
-![Zoho Qntrl](https://img.shields.io/badge/Zoho_Qntrl-8B00FF?style=for-the-badge&logo=zoho&logoColor=white)
-
-#### 🔐 Cybersecurity Tools
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF9800?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=for-the-badge&logoColor=white)
-
-#### ☁️ Platforms & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- **Manual Test Cases Repository**: A collection of well-structured test cases for web and mobile applications.
+- **Selenium Automation Suite**: A suite of automated regression tests using Selenium WebDriver.
+- **JMeter Performance Scripts**: Scripts designed for load testing and performance evaluation of applications.
+- **API Testing with Postman**: A set of Postman collections for comprehensive REST API validation.
 
 ---
 
-### 📜 Certifications
-- 🥇 Cisco Certified Network Associate (**CCNA**)  
-- 🛡️ The Art of Cybersecurity – RedTeam360  
-- ⚙️ DevOps 101 – Simplilearn  
-- 🧪 Selenium WebDriver – Udemy  
-- 🌐 Web & API Testing – Postman  
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ---
 
-### 📬 Connect With Me
-[![Email](https://img.shields.io/badge/Email-smitjoshi2604%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smitjoshi2604@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit-joshi-585150365)
+## 🌐 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/smit-joshi-585150365/)
+- [GitHub](https://github.com/your-github-username)
 
 ---
 
-<p align="center">
-<i>“Secure code. Break things ethically. Automate everything.”</i><br/>
-✨ Thanks for visiting my GitHub!
-</p>
+### ✨ "Quality is never an accident; it is always the result of intelligent effort."
